@@ -6,7 +6,7 @@ The script establishes 6to4 tunnels. You connect to your server's ipv4 address o
 
 ## Features
 
--   Supported networks: `/48`, `/64` but on ROUTE48.ORG Only /48 available
+-   Supported networks: `/48`, `/64` but on netassist Only /48 available
 -   Connection protocols: `http(s)` / `socks5`
 -   Authentication by username and password (or w/o auth)
 -   Custom port numbering (from start)
