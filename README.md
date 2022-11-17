@@ -42,29 +42,10 @@ sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/astridytb/netassist-
 -   [3proxy](https://github.com/z3APA3A/3proxy)
 -   [ndppd](https://github.com/DanielAdolfsson/ndppd)
 
-# Support me By Subscribe to My YouTube Channel Only, and watching my video https://www.youtube.com/c/RunakoNoia
-
-
-# Suggestions
-
-If you have any suggestions, please contact me:
-
--   Email: astridmariskaytb@gmail.com
-
-Please don't spam me with questions.
-
--   Debian based os (tested: Debian 9-11, Ubuntu 18-22)
--   1 CPU, 256 MB RAM
--   The ability to connect to ipv6 addresses
-    -   Check: `ping6 -c3 google.com &>/dev/null && echo "Connected successfully" || echo "Connection error"`
-
-# Used
-
--   [3proxy](https://github.com/z3APA3A/3proxy)
--   [ndppd](https://github.com/DanielAdolfsson/ndppd)
-
-# My website, which I also give free ipv6 proxy with excellent ip reputation https://proxymaster.my.id
-
+# My Youtube Channel where I share full tutorial
+- https://www.youtube.com/channel/UCrQbGvokE9m3LDpOCF9fwng
+# My Website where I share free premium ipv6 proxy
+- https://proxymaster.my.id
 
 # Suggestions
 
