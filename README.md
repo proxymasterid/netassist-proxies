@@ -47,6 +47,9 @@ sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/astridytb/netassist-
 # My Website where I share free premium ipv6 proxy
 - https://proxymaster.my.id
 
+#little donate for vps
+https://datalix.de/cp/donate/githubdonation
+
 # Suggestions
 
 If you have any suggestions, please contact me:
